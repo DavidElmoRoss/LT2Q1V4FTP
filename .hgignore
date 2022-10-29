@@ -1,0 +1,7 @@
+^BUILD$
+^.clangd$
+^.mbed$
+^.cache$
+^mbed$
+^compile_commands.json$
+^DigitDisplay$
